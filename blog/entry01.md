@@ -17,6 +17,7 @@ Another skill I learned was **Time Management**. I am the type of person to take
 
 ### Next Steps
 I plan to continue on the trajectory I am on now. I plan to go deeper in my research so I can make a website adequate research as it is informative!
-[Next](entry02.md)
 
+
+[Next](entry02.md)
 [Home](../README.md)
