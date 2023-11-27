@@ -6,7 +6,7 @@ Chess has always meant so much to me. I learned to play when I was 5 and from th
 
 In order to understand the future of the game I thought I should understand the past. I read a Britannica article about [Chess history](https://www.britannica.com/topic/chess/History). Then I went through the evolution of the game. I read about how since the game kicked off the greats like [Paul Morphy](https://worldchesshof.org/chess-hall-of-fame/paul-morphy) and [Bobby Fisher](https://worldchesshof.org/hof-inductee/robert-bobby-james-fischer). The game has always fascinated people who have done their best to understand and create a complete guide to understand chess. Currently players like [Magnus Carlsen](https://www.britannica.com/biography/Magnus-Carlsen) and [Ding Liren](https://www.britannica.com/biography/Ding-Liren) are creating history for chess and I want to explore who technology have helped them and what it can continue to do for them. 
 
-### EDP
+### Engineering Design Process
 I am currently at the 1st step of the Engineering Design Process, finding a problem. The problem that I found was that the game of chess is not presented in an interesting way to people. Often Chess websites look very weird and not very professional. I would like to change that. My next step would be to do further  in depth research on chess and its confusing history.
 
 ### Skills
