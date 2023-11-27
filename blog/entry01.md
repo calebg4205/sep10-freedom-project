@@ -1,4 +1,4 @@
-# Entry 1: 
+# Entry 1: Picking a topic (Chess)
 ##### 10/23/23
 
 ### Why choose chess
