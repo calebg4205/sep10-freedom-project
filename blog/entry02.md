@@ -1,5 +1,9 @@
-# Entry 2
-##### X/X/XX
+# Entry 2: Chess in technology
+##### 11/30/23
+
+To further understand how chess 
+
+
 
 Text
 
