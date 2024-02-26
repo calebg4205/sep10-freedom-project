@@ -17,7 +17,7 @@ During the duration of this course I feel behind quite a bit. I struggled with s
 
 
 #### Time Management
-This semester I really struggled to manage my time. I never prioritize assignments and struggle to do work. I felt as if m time was being wasted on easy assignment. Now I understand the purpose of each assignment. I hope that in the new semester I will be able to manage time more effectively now that I have a planner.
+This semester I really struggled to manage my time. I never prioritize assignments and struggle to do work. I felt as if my time was being wasted on easy assignment. Now I understand the purpose of each assignments. I hope that in the new semester I will be able to manage time more effectively now that I have a planner.
 
 
 
