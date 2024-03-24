@@ -1,11 +1,11 @@
-# Tool Learning Log
+# Tool Learning Log 4
 
-Tool: **X**
+Tool: Jquery
 
 ---
 
-X/X/X:
-* Text
+3/20/2024:
+* I began to read the (w3schools)[https://www.w3schools.com/jquery/jquery_hide_show.asp]
 
 X/X/X:
 * Text
