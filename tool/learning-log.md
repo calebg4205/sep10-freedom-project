@@ -11,15 +11,17 @@ Tool: Jquery
    ```javascript
 $("#chess").click(function(){
   $("p").hide();
+  
 });
 
 $("#knight").click(function(){
   $("p").show();
+  
 });
     ```
 
-X/X/X:
-* Text
+3/24/2024:
+* 
 
 
 <!-- 
