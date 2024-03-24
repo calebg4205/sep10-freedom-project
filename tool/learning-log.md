@@ -8,7 +8,7 @@ Tool: Jquery
 * I began to read the [w3schools](https://www.w3schools.com/jquery/jquery_hide_show.asp) article on Jquery affects to see how they could spruce on my webpage
   * The fade and slide made me interested
   * It was challeging to try and work with Javascript with no prior experience
-   ```js
+   ```javascript
 $("#chess").click(function(){
   $("p").hide();
 });
