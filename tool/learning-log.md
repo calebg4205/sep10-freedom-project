@@ -9,7 +9,6 @@ Tool: Jquery
   * The fade and slide made me interested
   * It was challeging to try and work with Javascript with no prior experience
 
-  ``javascript
 $("#chess").click(function(){
   $("p").hide();
 });
@@ -17,7 +16,7 @@ $("#chess").click(function(){
 $("#knight").click(function(){
   $("p").show();
 });
-``
+
 3/24/2024:
 * I continued to tinker with the effect Jquery alloed me to play with
  * Perhaps my next learning log will include a tutorial on javascript
