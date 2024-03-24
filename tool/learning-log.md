@@ -8,7 +8,6 @@ Tool: Jquery
 * I began to read the [w3schools](https://www.w3schools.com/jquery/jquery_hide_show.asp) article on Jquery affects to see how they could spruce on my webpage
   * The fade and slide made me interested
   * It was challeging to try and work with Javascript with no prior experience
-   ```javascript
    
 $("#chess").click(function(){
   $("p").hide();
@@ -17,7 +16,6 @@ $("#chess").click(function(){
 $("#knight").click(function(){
   $("p").show();
 });
-    ```
 
 3/24/2024:
 * I continued to tinker with the effect Jquery alloed me to play with
