@@ -27,4 +27,50 @@ $("#knight").click(function(){
 * I began to inspect what more widgets can do using [Widget factory](https://jqueryui.com/widget/)
     * This webiste showed the full extent to what Jquery could do
     * I am taken aback by the color chnage and the class change
-        * With this I could make informtation 
+        * With this I could make informtation
+
+4/3/24
+* I started to finish working on how animations work in Jqery
+ * I used the Jqeury effects library [Jquery](https://api.jquery.com/category/effects/)
+ * I created a webpage that made text show up and vanish
+ ```js
+$(document).ready(function(){
+    $(".button1").click(function(){
+      $("p").hide();
+    });
+  });
+
+  $(document).ready(function(){
+    $(".button2").click(function(){
+      $("p").show();
+    });
+  });
+
+  $(document).ready(function(){
+    $(".button3").click(function(){
+      $("h1").fadeOut();
+    });
+  });
+  $(document).ready(function(){
+    $(".button4").click(function(){
+      $("h1").fadeIn();
+    });
+  });
+
+```
+```html
+<body>
+  <p>Hello world I am your master</p>
+  <div class="box">
+    <button class="button1">Hide</button>
+    <button class="button2">Show</button>
+</div>
+<h1>MUWHAHAHA</h1>
+<button class="button3">Fade Out</button>
+<button class="button4">Fade In</button>
+</body>
+```
+   I was able to code this from memory so I felt as if I had a pretty good grasp on animations
+
+   4/4/24
+   * 
