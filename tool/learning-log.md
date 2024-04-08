@@ -28,6 +28,8 @@ $("#knight").click(function(){
     * This webiste showed the full extent to what Jquery could do
     * I am taken aback by the color chnage and the class change
         * With this I could make informtation
+     
+     ### Learning Log 6
 
 4/3/24
 * I started to finish working on how animations work in Jqery
@@ -73,4 +75,14 @@ $(document).ready(function(){
    I was able to code this from memory so I felt as if I had a pretty good grasp on animations
 
    4/4/24
-   * 
+   
+   * I began updating the style.css to change my buttons from grey to colorful!
+   * I used [W3schools](https://www.w3schools.com/css/css3_buttons.asp) to understand basic button styling
+   * I was able to get it to work and now my buttons were nice a colorful!
+
+4/5/24
+* Traversing helps you write less lines of code by applying the same css to multiple things
+* It can change selectors and not make you write a lot of tedious css
+* I made a child element and a ancestor elements
+* From there I began to traverse the tree using Jquery to make different certain css be applied
+
