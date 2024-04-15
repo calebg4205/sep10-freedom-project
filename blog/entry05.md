@@ -24,6 +24,9 @@ I am currently ready to beign the 5th stage of the enginnering deign process(Dev
 
 ### Skills
 
+When i began learning Jquery I learned **researching skills**. I had to learn that I can't understand every piece of information. Some Jquery concepts were too hard for me to understand. I had to accept that not everything was important to learn. My notes had become condesed soley to what I wanted to use and what I couldn't do. Since I never learned Javascript so I had trouble unuderstanding everything about Jquery. I learned how sort thorugh information taht I want and unerstand.
+
+The Second Skill I learned is **How to deal with failure**. Without Javascript I failed over and over again. I kept getting errors and didn't understand any of the syntax. Still I learned how to move foward and think through my problems. I learned that Javascript is very similar and I can use logic and reason to solve my problems. My reserach also came in handy to solve all my questtions and syntax errors.
 
 
 
