@@ -12,6 +12,41 @@
         <link href="css/styles.css" rel="stylesheet" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     </head>
+    <script>
+        $(document).ready(function(){
+    $(".button1").click(function(){
+      $("#alex1").hide();
+    });
+  });
+  $(document).ready(function(){
+    $(".button2").click(function(){
+      $("#alex1").show();
+    });
+  });
+
+  $(document).ready(function(){
+    $(".button1").click(function(){
+      $("#alex2").hide();
+    });
+  });
+  $(document).ready(function(){
+    $(".button2").click(function(){
+      $("#alex2").show();
+    });
+  });
+
+  $(document).ready(function(){
+    $(".button1").click(function(){
+      $("#alex3").hide();
+    });
+  });
+  $(document).ready(function(){
+    $(".button2").click(function(){
+      $("#alex3").show();
+    });
+  });
+
+    </script>
     <body>
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark w-100">
@@ -30,7 +65,7 @@
             </div>
         </nav>
         <!-- Header - set the background image for the header in the line below-->
-            <img src="chess.jpg" alt="chess club banaster">
+            <img class="Beeshops"src="chess.jpg" alt="chess club banaster">
             <div class="text-center my-5">
                 <p class="text-white-50 mb-0">Landing Page Template</p>
             </div>
@@ -55,10 +90,8 @@
             </div>
         </section>
         <!-- Image element - set the background image for the header in the line below-->
-        <div class="py-5 bg-image-full" style="background-image: url('https://source.unsplash.com/4ulffa6qoKA/1200x800')">
             <!-- Put anything you want here! The spacer below with inline CSS is just for demo purposes!-->
-            <div style="height: 20rem"></div>
-        </div>
+
         <!-- Content section-->
         <section class="py-5">
             <div class="container my-5">
@@ -70,8 +103,39 @@
                     </div>
                 </div>
             </div>
+            <div class="box">
+                <button class="button1">Hide</button>
+                <button class="button2">Show</button>
+                <img class="IBM"src="IMB_704.jpg" alt="IBM 704">
+                <p id="alex1">In 1957 Alex Berinsteen was able to run IBM 704 and it beat a human player!</p>
+            </div>
+            <div class="box">
+                <button class="button1">Hide</button>
+                <button class="button2">Show</button>
+                <img class="IBM"src="Deep_blue.jpg" alt="IBM 704">
+                <p id="alex2">Deep Blue defeated Former World Champion Gary Kasporov which made computers better than the world's best humans!</p>
+            </div>
+            <div class="box">
+                <button class="button1">Hide</button>
+                <button class="button2">Show</button>
+                <img class="IBM" src="Stockfish.jpg" alt="IBM 704">
+                <p id="alex3">Stockfish is one of the world's strongest chess computers and is used to anaylze games everyday!</p>
+            </div>
         </section>
-        <!-- Footer-->
+        <section class="py-5">
+            <div class="container my-5">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <h2>Future chess</h2>
+                        <p class="lead">Chess will always be a complicated and unique game. Now that AI is far better than any human we can use them to learn and expand the game. I believe that AI is not a hindrance to chess but a help. I think we could use AI to help teach people the game and get them interested. I also think we need to unify chess as a community. If we were able to but ever rated tournament that happens on one website then more people would go to tournaments. I think it's extremely important the Chess community unites to allow the game to learn and grow from these new technologies.</p>
+                    
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+            </div>
+        </section>
+        <!-- Footer -->
         <footer class="py-5 bg-dark">
             <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
         </footer>
