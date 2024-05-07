@@ -32,6 +32,10 @@ Main Color Scheme:
 * History of chess
 * Chess hardware and software
 
+##### Beyond MVP
+* Fix the Margin and padding of each element to be closer together
+* Fix the color scheme of the webiste to be clearer (Change navbar colors)
+* Add more responsivness using bootstrap
 ---
 
 #### Beyond MVP
