@@ -37,9 +37,3 @@ Main Color Scheme:
 * Fix the color scheme of the webiste to be clearer (Change navbar colors)
 * Add more responsivness using bootstrap
 ---
-
-#### Beyond MVP
-
-* More Jqeury additions
-* Include chessboard API
-* Add more information
