@@ -32,6 +32,4 @@ $(document).ready(function(){
     });
   });
 
-  var img %('<img id="dynamic">');
-  img.attr('src', IMB_704.jpg);
-  img.appendTO('.IMB');
+ 

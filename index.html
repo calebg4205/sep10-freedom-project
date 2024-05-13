@@ -9,8 +9,10 @@
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
+        <link href="styles.css" rel="stylesheet" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  </head>
     </head>
     <script>
         $(document).ready(function(){
@@ -65,13 +67,97 @@
             </div>
         </nav>
         <!-- Header - set the background image for the header in the line below-->
-            <img class="Beeshops"src="chess.jpg" alt="chess club banaster">
-            <div class="text-center my-5">
-                <p class="text-white-50 mb-0">Landing Page Template</p>
-            </div>
-        </header>
+
+
+
         <!-- Content section-->
-        <section class="py-5">
+
+          <!-- <div id="carouselExampleCaptions" class="carousel slide">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="chess.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>First slide label</h5>
+                  <p>Some representative placeholder content for the first slide.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="..." class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Second slide label</h5>
+                  <p>Some representative placeholder content for the second slide.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="ai-chess.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Third slide label</h5>
+                  <p>Some representative placeholder content for the third slide.</p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div> -->
+
+          <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="chess.jpg" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="..." alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="..." alt="Third slide">
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-xs-6">
+            <div class="col-xs-6">
+          <div class="col-md-6 d-flex" style="padding-top: 40px;">
+            <div class="card white">
+               <div class="card-body">
+                  <h5 class="card-title">History of chess</h5>
+                  <p class="card-text">  Chess, one of the world's most popular games, has a rich history that stretches back over a thousand years. Originating in India around the 6th century AD, the earliest form of chess, known as chaturanga. From India, <p class="card-text">the game spread on the silk road, where it
+                    evolved into the game we know today. By the 10th century, chess had reached Europe, where it continued to develop. Roy lopez, a Spanish polymath, studied the game for many years. He allowed the game to grow to become one of the staples of world.</p>
+                  <div style="padding-top:15px;">
+               </div>
+             </div>
+           </div>
+        </div>
+        </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-6">
+          <div class="col-xs-6">
+        <div class="col-md-6 d-flex" style="padding-top: 40px;">
+          <div class="card white">
+             <div class="card-body">
+                <h5 class="card-title">History of chess</h5>
+              <p class="card-text">The game grew with many notable players such as Paul morphy and Jose Capablanca contributing much to the game. Then everything changed in the 20th century when FIDE was created. They became the international governing body on all chess matters. They helped allow for many players to grow such as Bobby Fisher, Gary kasporov, and the famous Magnus Carelson.</p>
+                <div style="padding-top:15px;">
+             </div>
+           </div>
+         </div>
+      </div>
+      </div>
+      </div>
+        <!-- <section class="py-5">
             <div class="container my-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
@@ -83,12 +169,12 @@
                             <p class="lead">
                               The game grew with many notable players such as Paul morphy and Jose Capablanca contributing much to the game. Then everything changed in the 20th century when FIDE was created. They became the international governing body on all chess matters. They helped allow for many players to grow such as Bobby Fisher, Gary kasporov, and the famous Magnus Carelson.
                                 </p>
-                                <img class="Ruy" src="Maguns.jpg" alt="Magnus Carelson"
+                                <img class="Ruy" src="Maguns.jpg" alt="Magnus Carelson">
                         <p class="mb-0">The stauton house of chess inducts people into the Chess Hall of Fame</p>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Image element - set the background image for the header in the line below-->
             <!-- Put anything you want here! The spacer below with inline CSS is just for demo purposes!-->
 
@@ -142,6 +228,8 @@
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
+        <script src="scripts.js"></script>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     </body>
 </html>
