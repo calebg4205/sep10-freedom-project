@@ -11,7 +11,6 @@ I created my prototype and was now ready to send it out to the public. I develop
 #### Overcoming Challenges
 It was very difficult to take my template and turn it into my own. There was so much I didn't understand, but I used the inspect tool to see what the code did. I spent hours inspecting and adding comments to the CSS to understand its functionality. I also added divs of my own and used inspect to see if they worked. It was a lot of work, but thanks to my endurance, I was able to do it.
 
-
-Previous](entry06.md) | [Next](entry08.md)
+[Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
